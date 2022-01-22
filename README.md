@@ -4,7 +4,7 @@ leia o readme.md para saber o passo-a-passo
 
 Olá, bem vindo ao meu projeto, vou lhe ensinar como utiliza-lo
 
-Entre na pasta website ( a primeira, do arquivo principal), e execute no terminal python .\manage.py 
+Entre na pasta website ( a primeira, do arquivo principal), e execute no terminal python .\manage.py runserver
 
 para manipular os dados da API, siga o caminho: http://127.0.0.1:8000/admin
 
