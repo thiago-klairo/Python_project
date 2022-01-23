@@ -7,7 +7,7 @@ Olá, bem vindo ao meu projeto, vou lhe ensinar como utiliza-lo
 
 abra o prompt de comando no caminho: Python Projects\website.
 
-Lá você deve executar o ambiente virtual com o comando: ambiente_virt\Scripts\activate
+Lá você deve executar o ambiente virtual com o comando: ambiente_virt\Scripts\activate.bat
 
 dentro do ambiente virtual, execute o comando python manage.py runserver
 
