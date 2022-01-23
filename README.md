@@ -29,7 +29,11 @@ para acessar diretamente a api, utilize o caminho:
 
 http://127.0.0.1:8000/api
 
-lá você recebera o json da minha api 
+lá você recebera o json da minha api e localizar a rota através do id da fruta cadastrada, 
+ex:
+
+http://127.0.0.1:8000/api/1
+
 
 
 Espero que goste :)
