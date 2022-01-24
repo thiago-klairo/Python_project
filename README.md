@@ -10,6 +10,7 @@ Primeiro é preciso acessar a máquina virtual, que irá rodar o python com os f
 abra o prompt de comando (cmd) no caminho: Python Projects\website.
 
 Lá você deve executar o ambiente virtual com o comando: ambiente_virt\Scripts\activate
+logo depois o comando pip install -r requirements.txt
 
 dentro do ambiente virtual, execute o comando python manage.py runserver
 
