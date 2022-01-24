@@ -1,16 +1,17 @@
 # Python_project
+
 leia o readme.md para saber o passo-a-passo
 
 
 Olá, bem vindo ao meu projeto, vou lhe ensinar como utiliza-lo
 
+Primeiro é preciso acessar a máquina virtual, que irá rodar o python com os frameworks
 
 abra o prompt de comando (cmd) no caminho: Python Projects\website.
 
 Lá você deve executar o ambiente virtual com o comando: ambiente_virt\Scripts\activate
 
 dentro do ambiente virtual, execute o comando python manage.py runserver
-(ocorreu um erro com um usuário, de não reconhecer o djangorestframework, caso ocorra no seu projeto, antes de executar  python manage.py runserver, execute pip3 install djangorestframework)
 
 para manipular os dados da API, siga o caminho: http://127.0.0.1:8000/admin
 
